@@ -1,0 +1,1 @@
+console.log("Hello from Gavino Learning Path of Git 1.0")
