@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("version github practice v2");
+console.log("version 13");
