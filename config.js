@@ -1,2 +1,2 @@
 console.log("config.js");
-console.log("version 13");
+console.log("Version SSh 1.0");

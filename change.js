@@ -1,1 +1,1 @@
-console.log("new git tutorial 13")
+console.log("SSH version 1.0")
